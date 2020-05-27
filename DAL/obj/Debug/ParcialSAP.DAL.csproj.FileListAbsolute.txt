@@ -1,0 +1,13 @@
+C:\Users\elmus\source\repos\ParcialSAP\DAL\obj\Debug\ParcialSAP.DAL.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\ParcialSAP\DAL\obj\Debug\ParcialSAP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\ParcialSAP\DAL\obj\Debug\DAL.dll
+C:\Users\elmus\source\repos\ParcialSAP\DAL\obj\Debug\DAL.pdb
+C:\Users\elmus\Desktop\ParcialSAP\DAL\obj\Debug\ParcialSAP.DAL.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\ParcialSAP\DAL\obj\Debug\ParcialSAP.DAL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\ParcialSAP\DAL\obj\Debug\DAL.dll
+C:\Users\elmus\Desktop\ParcialSAP\DAL\obj\Debug\DAL.pdb
+C:\Users\elmus\Desktop\ParcialSAP\DAL\bin\Debug\DAL.dll
+C:\Users\elmus\Desktop\ParcialSAP\DAL\bin\Debug\DAL.pdb
+C:\Users\elmus\Desktop\ParcialSAP\DAL\bin\Debug\ParcialSAP.EE.dll
+C:\Users\elmus\Desktop\ParcialSAP\DAL\bin\Debug\ParcialSAP.EE.pdb
+C:\Users\elmus\Desktop\ParcialSAP\DAL\obj\Debug\ParcialSAP.DAL.csproj.CopyComplete

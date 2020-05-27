@@ -1,0 +1,51 @@
+﻿@model ParcialSAP.EE.CuentaBancaria
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>CuentaBancaria</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+           Numero de la cuenta
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroCuenta)
+        </dd>
+
+        <dt>
+            Nombre del propietario
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Propietario)
+        </dd>
+
+        <dt>
+            Saldo de la cuenta
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Saldo)
+        </dd>
+
+        <dt>
+            Tipo de Cuenta
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoCuentaBancaria.Nombre)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id = Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

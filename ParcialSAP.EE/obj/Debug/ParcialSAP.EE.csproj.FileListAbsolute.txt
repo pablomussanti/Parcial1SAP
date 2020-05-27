@@ -1,0 +1,12 @@
+C:\Users\elmus\source\repos\ParcialSAP\ParcialSAP.EE\bin\Debug\ParcialSAP.EE.dll
+C:\Users\elmus\source\repos\ParcialSAP\ParcialSAP.EE\bin\Debug\ParcialSAP.EE.pdb
+C:\Users\elmus\source\repos\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.dll
+C:\Users\elmus\source\repos\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.pdb
+C:\Users\elmus\Desktop\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.dll
+C:\Users\elmus\Desktop\ParcialSAP\ParcialSAP.EE\obj\Debug\ParcialSAP.EE.pdb
+C:\Users\elmus\Desktop\ParcialSAP\ParcialSAP.EE\bin\Debug\ParcialSAP.EE.dll
+C:\Users\elmus\Desktop\ParcialSAP\ParcialSAP.EE\bin\Debug\ParcialSAP.EE.pdb

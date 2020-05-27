@@ -1,0 +1,45 @@
+﻿@model IEnumerable<ParcialSAP.EE.Movimientos>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+           Cuenta Bancaria Origen
+        </th>
+        <th>
+           Cuenta Bancaria Destino
+        </th>
+        <th>
+            Monto
+        </th>
+        <th>
+            Tipo de Movimiento
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.CuentaBancariaOrigen)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.CuentaBancariaDestino)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Saldo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Tipo)
+        </td>
+    </tr>
+}
+
+</table>

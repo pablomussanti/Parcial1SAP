@@ -1,0 +1,15 @@
+C:\Users\elmus\source\repos\ParcialSAP\BLL\obj\Debug\ParcialSAP.BLL.csprojAssemblyReference.cache
+C:\Users\elmus\source\repos\ParcialSAP\BLL\obj\Debug\ParcialSAP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\source\repos\ParcialSAP\BLL\obj\Debug\BLL.dll
+C:\Users\elmus\source\repos\ParcialSAP\BLL\obj\Debug\BLL.pdb
+C:\Users\elmus\Desktop\ParcialSAP\BLL\obj\Debug\ParcialSAP.BLL.csprojAssemblyReference.cache
+C:\Users\elmus\Desktop\ParcialSAP\BLL\obj\Debug\ParcialSAP.BLL.csproj.CoreCompileInputs.cache
+C:\Users\elmus\Desktop\ParcialSAP\BLL\obj\Debug\BLL.dll
+C:\Users\elmus\Desktop\ParcialSAP\BLL\obj\Debug\BLL.pdb
+C:\Users\elmus\Desktop\ParcialSAP\BLL\bin\Debug\BLL.dll
+C:\Users\elmus\Desktop\ParcialSAP\BLL\bin\Debug\BLL.pdb
+C:\Users\elmus\Desktop\ParcialSAP\BLL\bin\Debug\DAL.dll
+C:\Users\elmus\Desktop\ParcialSAP\BLL\bin\Debug\ParcialSAP.EE.dll
+C:\Users\elmus\Desktop\ParcialSAP\BLL\bin\Debug\DAL.pdb
+C:\Users\elmus\Desktop\ParcialSAP\BLL\bin\Debug\ParcialSAP.EE.pdb
+C:\Users\elmus\Desktop\ParcialSAP\BLL\obj\Debug\ParcialSAP.BLL.csproj.CopyComplete

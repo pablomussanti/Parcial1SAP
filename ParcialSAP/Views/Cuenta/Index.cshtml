@@ -1,0 +1,55 @@
+﻿@model IEnumerable<ParcialSAP.EE.CuentaBancaria>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Listado de Cuentas Existentes</h2>
+
+<p>
+    @Html.ActionLink("Crear Nueva Cuenta", "Create")
+</p>
+<table class="table" border="1">
+    <tr>
+        <th>
+            Numero de la Cuenta
+        </th>
+        <th>
+            Nombre del Propietario
+        </th>
+        <th>
+            Saldo de la Cuenta
+        </th>
+        <th>
+            Tipo de Cuenta
+        </th>
+
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.NumeroCuenta)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Propietario)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Saldo)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.TipoCuentaBancaria.Nombre)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.NumeroCuenta }) |
+            @Html.ActionLink("Detalle", "Details", new { id = item.NumeroCuenta }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id = item.NumeroCuenta }) |
+            @Html.ActionLink("Deposito", "Deposito", new { id = item.NumeroCuenta }) |
+            @Html.ActionLink("Retiro", "Retiro", new { id = item.NumeroCuenta })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,57 @@
+﻿@model ParcialSAP.EE.CuentaBancaria
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Seguro que lo deseas eliminar?</h3>
+<div>
+    <h4>Cuenta Bancaria</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            Numero de Cuenta
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NumeroCuenta)
+        </dd>
+
+        <dt>
+            Propietario
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Propietario)
+        </dd>
+
+        <dt>
+            Saldo
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Saldo)
+        </dd>
+
+        <dt>
+            Tipo de Cuenta
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.TipoCuentaBancaria.Nombre)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Eliminar" class="btn btn-default" /> |
+            @Html.ActionLink("Volver a la Lista", "Index")
+        </div>
+    }
+</div>
